@@ -1,0 +1,9 @@
+<?php
+echo "<form action='13.2-exemplo.php' method='POST'>";
+echo"Email: <input type='Varchar' size='50' name='Email' value=''/>";
+echo"</br>";
+echo"<input type='Submit' value='Voltar'/>";
+echo"</form>";
+?>
+
+
